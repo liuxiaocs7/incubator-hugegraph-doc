@@ -2,7 +2,7 @@
 id: 'hugegraph-client'
 title: 'HugeGraph-Client Quick Start'
 sidebar_label: 'Develop with HugeGraph-Client'
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 ### 1 Overview Of Hugegraph
